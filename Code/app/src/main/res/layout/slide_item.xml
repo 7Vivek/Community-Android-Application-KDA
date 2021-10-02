@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="275dp">
+
+<ImageView
+    android:scaleType="centerCrop"
+    android:id="@+id/image"
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    android:src="@drawable/ic_launcher_background" />
+
+
+<ImageView
+    android:id="@+id/image2"
+    android:layout_width="match_parent"
+    android:layout_height="75dp"
+    app:layout_constraintBottom_toBottomOf="@+id/image"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:srcCompat="@drawable/gradient_bg" />
+
+ <TextView
+    android:textSize="18sp"
+    android:textColor="#ffffff"
+    android:id="@+id/slide_title"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="15dp"
+     android:layout_marginTop="35dp"
+    android:text="Event Title"
+    app:layout_constraintBottom_toBottomOf="@+id/image2"
+    app:layout_constraintEnd_toEndOf="@+id/image2"
+    app:layout_constraintHorizontal_bias="0.0"
+    app:layout_constraintStart_toStartOf="@+id/image2"
+    app:layout_constraintTop_toTopOf="@+id/image2" />
+
+</android.support.constraint.ConstraintLayout>
