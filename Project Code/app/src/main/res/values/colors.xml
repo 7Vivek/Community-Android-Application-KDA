@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#151c25</color>
+    <color name="colorPrimaryDark">#151c25</color>
+    <color name="colorAccent">#00959a</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#385a64</color>
+
+    <color name="gradient_start_color">#C5F8F3</color>
+    <color name="gradient_end_color">#00DFC0</color>
+
+
+    <color name="colorblue">#151c25</color>
+    <color name="gray">#ECECEC</color>
+    <color name="colordarkblue">#076c78</color>
+    <color name="bluelink">#3284FF</color>
+    <color name="placeholder_bg">#dddddd</color>
+
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#07c7b2</color>
+    <color name="intro_title_color">#385a64</color>
+</resources>
