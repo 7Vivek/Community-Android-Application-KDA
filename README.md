@@ -1,6 +1,6 @@
 # 🏛️ Community-Android-Application-KDA
 
-Community Name : **Kanara Daivadnya Association Mumbai.**
+### Community Name : Kanara Daivadnya Association Mumbai.
 
 ## 📱 Application Working 🎬
 
