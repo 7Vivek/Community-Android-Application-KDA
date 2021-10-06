@@ -1,4 +1,4 @@
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+![GPLv3 License](https://img.shields.io/badge/License-GPLv3-%23fc6404)
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/7Vivek/Community-Android-Application-KDA)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/7Vivek/Community-Android-Application-KDA?color=green)
